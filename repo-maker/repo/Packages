@@ -1,0 +1,8 @@
+Package: prooooof
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: You
+Installed-Size: 40
+Filename: debs/prooooof.deb
+Section: Tweaks
+Description: Custom package
